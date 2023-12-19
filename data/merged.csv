@@ -1,0 +1,57 @@
+Model number,Best Parameters,Best Score
+Model_1A,"gamma= 0.02, learning_rate= 0.18, max_depth= 6, min_child_weight= 1, n_estimators= 100",0.89 
+Model_1B,"gamma= 0.03, learning_rate= 0.18, max_depth= 12, min_child_weight= 1, n_estimators= 100",0.94 
+Model_1C,"gamma= 0.03, learning_rate= 0.13, max_depth= 10, min_child_weight= 1, n_estimators= 100",0.93 
+Model_1D,"gamma= 0.02, learning_rate= 0.13, max_depth= 8, min_child_weight= 1, n_estimators= 100",0.91 
+Model_1E,"gamma= 0.04, learning_rate= 0.15, max_depth= 8, min_child_weight= 1, n_estimators= 120",0.93 
+Model_1F,"gamma= 0.04, learning_rate= 0.14, max_depth= 6, min_child_weight= 1, n_estimators= 100",0.92 
+Model_1G,"gamma= 0.04, learning_rate= 0.14, max_depth= 8, min_child_weight= 1, n_estimators= 100",0.87 
+Model_2A,"C= 6, gamma= 0.13",0.89 
+Model_2B,"C= 2, gamma= 0.04",0.89 
+Model_2C,"C= 6, gamma= 0.04",0.92 
+Model_2D,"C= 3, gamma= 0.09",0.93 
+Model_2E,"C= 6, gamma= 0.16",0.93 
+Model_2F,"C= 6, gamma= 0.15",0.92 
+Model_2G,"C= 7, gamma= 0.16",0.85 
+Model_3A,"min_samples_leaf= 1, min_samples_split= 2, n_estimators= 160",0.90 
+Model_3B,"min_samples_leaf= 1, min_samples_split= 4, n_estimators= 120",0.93 
+Model_3C,"min_samples_leaf= 1, min_samples_split= 2, n_estimators= 220",0.92 
+Model_3D,"min_samples_leaf= 1, min_samples_split= 3, n_estimators= 120",0.93 
+Model_3E,"min_samples_leaf= 1, min_samples_split= 3, n_estimators= 120",0.92 
+Model_3F,"min_samples_leaf= 1, min_samples_split= 2, n_estimators= 240",0.93 
+Model_3G,"min_samples_leaf= 1, min_samples_split= 2, n_estimators= 240",0.87 
+Model_4A,"C= 0.24, max_iter= 10, solver= liblinear",0.87 
+Model_4B,"C= 0.23, max_iter= 10, solver= liblinear",0.91 
+Model_4C,"C= 0.19, max_iter= 10, solver= liblinear",0.91 
+Model_4D,"C= 0.18, max_iter= 10, solver= liblinear",0.89 
+Model_4E,"C= 0.17, max_iter= 10, solver= liblinear",0.86 
+Model_4F,"C= 0.24, max_iter= 10, solver= liblinear",0.89 
+Model_4G,"C= 0.24, max_iter= 10, solver= liblinear",0.81 
+Model_5A,"learning_rate= 0.16, max_depth= 4, n_estimators= 340, num_leaves= 6",0.90 
+Model_5B,"learning_rate= 0.15, max_depth= 5, n_estimators= 340, num_leaves= 6",0.93 
+Model_5C,"learning_rate= 0.15, max_depth= 5, n_estimators= 280, num_leaves= 7",0.92 
+Model_5D,"learning_rate= 0.14, max_depth= 3, n_estimators= 340, num_leaves= 4",0.92 
+Model_5E,"learning_rate= 0.16, max_depth= 5, n_estimators= 340, num_leaves= 8",0.91 
+Model_5F,"learning_rate= 0.14, max_depth= 4, n_estimators= 340, num_leaves= 8",0.91 
+Model_5G,"learning_rate= 0.17, max_depth= 5, n_estimators= 320, num_leaves= 8",0.86 
+Model_6A,"n_neighbors= 2, p= 1",0.87 
+Model_6B,"n_neighbors= 1, p= 1",0.91 
+Model_6C,"n_neighbors= 1, p= 1",0.89 
+Model_6D,"n_neighbors= 3, p= 1",0.90 
+Model_6E,"n_neighbors= 3, p= 1",0.91 
+Model_6F,"n_neighbors= 2, p= 1",0.89 
+Model_6G,"n_neighbors= 5, p= 1",0.84 
+Model_7A,"max_depth= 18, max_leaf_nodes= 60, min_samples_split= 6",0.87 
+Model_7B,"max_depth= 11, max_leaf_nodes= 60, min_samples_split= 2",0.90 
+Model_7C,"max_depth= 11, max_leaf_nodes= 60, min_samples_split= 2",0.89 
+Model_7D,"max_depth= 10, max_leaf_nodes= 60, min_samples_split= 5",0.91 
+Model_7E,"max_depth= 16, max_leaf_nodes= 60, min_samples_split= 2",0.92 
+Model_7F,"max_depth= 11, max_leaf_nodes= 70, min_samples_split= 2",0.89 
+Model_7G,"max_depth= 13, max_leaf_nodes= 60, min_samples_split= 6",0.86 
+Model_8A,"hidden_layer_sizes= 80, max_iter= 600, solver= adam",0.89 
+Model_8B,"hidden_layer_sizes= 60, max_iter= 600, solver= lbfgs",0.92 
+Model_8C,"hidden_layer_sizes= 80, max_iter= 600, solver= adam",0.90 
+Model_8D,"hidden_layer_sizes= 80, max_iter= 600, solver= adam",0.90 
+Model_8E,"hidden_layer_sizes= 70, max_iter= 600, solver= adam",0.91 
+Model_8F,"hidden_layer_sizes= 60, max_iter= 600, solver= adam",0.91 
+Model_8G,"hidden_layer_sizes= 90, max_iter= 800, solver= lbfgs",0.86 
